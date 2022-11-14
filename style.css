@@ -1,0 +1,23 @@
+h1,
+p {
+  font-family: Lato;
+}
+.App {
+  border: 10px;
+  background-color: rgb(221, 208, 191);
+  color: rgb(0, 0, 0);
+  display: block;
+}
+
+tr,
+td {
+  background-color: rgb(230, 227, 224);
+  align-items: center;
+  width: 90vw;
+  height: auto;
+}
+.Search {
+  background-color: aliceblue;
+  width: 70vw;
+  height: auto;
+}
